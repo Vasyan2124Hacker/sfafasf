@@ -59,7 +59,7 @@ function Nofitication:Notify(nofdebug, middledebug, all)
     WindowDescription.BackgroundTransparency = 1.000
     WindowDescription.BorderColor3 = Color3.fromRGB(27, 42, 53)
     WindowDescription.BorderSizePixel = 0
-    WindowDescription.Position = UDim2.new(0, 8, 0, 55)
+    WindowDescription.Position = UDim2.new(0, 8, 0, 60)
     WindowDescription.Size = UDim2.new(0, 216, 0, 40)
     WindowDescription.ZIndex = 4
     WindowDescription.Font = Enum.Font.GothamSemibold
